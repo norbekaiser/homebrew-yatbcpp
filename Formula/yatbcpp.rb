@@ -1,7 +1,7 @@
 class Yatbcpp < Formula
     homepage "https://github.com/norbekaiser/homebrew-yatbcpp"
     url "https://yatbcpp.norbert-ruehl.de/download/homebrew-yatbcpp-0.0.1.tar.gz"
-    sha256 "ec7f43f908d4c6d5df173963fc1482af46cf5a653108031ffe8055f05f9099cc"
+    sha256 "20e6af910e610002d3eab6675616764da305199f0825f02d2d3b41752245cfc4"
 
     depends_on "cmake" => :build
     depends_on "jsoncpp"
